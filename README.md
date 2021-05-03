@@ -1,2 +1,2 @@
-# Micro-app
-Micro app using ReactJS
+# micro-app
+Created with CodeSandbox
