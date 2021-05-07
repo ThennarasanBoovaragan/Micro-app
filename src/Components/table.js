@@ -47,7 +47,7 @@ export default function Table(data) {
             </tr>
           </thead>
           <tbody>
-            {tableData.items &&
+            {tableData &&
               tableData.items.map((listValue, index) => {
                 return (
                   <tr key={index} onClick={() => handleClick(listValue)}>
